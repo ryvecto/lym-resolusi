@@ -5,6 +5,7 @@ RENCANA KONTEN LYM
  *Framework Javascript
   ^ Vue
   ^ React
+  ^Angular
 -Struktur Data Dasar
 -PHP Framework
  ^Laravel
