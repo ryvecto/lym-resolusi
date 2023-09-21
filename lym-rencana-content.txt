@@ -3,6 +3,7 @@ RENCANA KONTEN LYM
 -Javascript
  *ES6
  *Framework Javascript
+-Struktur Data Dasar
 -PHP Framework
 -Interview
 -Vlogs
